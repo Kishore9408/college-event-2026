@@ -4,7 +4,7 @@
 - Event Name: College Cultural Fest
 - Venue: College Auditorium
 - Date: To be announced
-- Organized By: BBA Department
+- Organized By: B.tech Artificial intelligence &data science
 
 ## 2. Event Objectives
 - Encourage student participation.
